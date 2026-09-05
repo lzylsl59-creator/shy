@@ -1,1 +1,20 @@
 
+【大陆】,#类型#
+CCTV-1 综合，http://lhzb.lmllml.top:8000/play/MTMwNjE6MTM=.flv?token=_6tKzgob5jSWvtbIweJR8Q&exp=4102444800&sign=4ad96f6fcdcc4568280f0c51a2672696
+CCTV-2 财经，http://lhzb.lmllml.top:8000/play/MTMwNjI6MTM=.flv?token=RGXEyKwEdKStfIbq4wxagw&exp=4102444800&sign=8e3748ae9be948a5f7314d5e4b638b67
+CCTV-3 综艺，http://lhzb.lmllml.top:8000/play/MTMwNjM6MTM=.flv?token=Z6Vg_HjOU-R1rCDdl72OWA&exp=4102444800&sign=aae9c6eabe7fa0d3e540ef4093ad9134
+CCTV-4 国际，http://lhzb.lmllml.top:8000/play/MTMwNjQ6MTM=.flv?token=-rQVOf_u1z5TgXqIMRrJIA&exp=4102444800&sign=1de7ce1716613842eac9f5c9fdced2ef
+CCTV-5 体育，http://lhzb.lmllml.top:8000/play/MTMwNjU6MTM=.flv?token=0JWbVvmvqyZdbxw-3aDl4Q&exp=4102444800&sign=cdaadac1d14c289d6c15a269f3494ed1
+CCTV-5+体育赛事，http://lhzb.lmllml.top:8000/play/MTMwNjY6MTM=.flv?token=KtzL64uzayzpMfi8L9rKsA&exp=4102444800&sign=5dac0ee561008f6a3bb6d78de60ac4d3
+CCTV-6 电影，http://lhzb.lmllml.top:8000/play/MTMwNjc6MTM=.flv?token=hU4Ae3gpTkR-1Rt6XYwyBw&exp=4102444800&sign=b2722288378b8d68dad4f9c914af54b6
+CCTV-7 军事农业，http://lhzb.lmllml.top:8000/play/MTMwNjg6MTM=.flv?token=4Bhft09lMXB6RbdjKgBnjA&exp=4102444800&sign=de6b0ffdea86b99f5a4f96a6db33b593
+CCTV-8 电视剧，http://lhzb.lmllml.top:8000/play/MTMwNjk6MTM=.flv?token=nDkkFyESkQzLvGiopaJy9w&exp=4102444800&sign=4a232733aa585c012c9fd7f05c0f4947
+CCTV-9 记录，http://lhzb.lmllml.top:8000/play/MTMwNzA6MTM=.flv?token=UMTM7RQKfFAdrZK-wcg9kg&exp=4102444800&sign=f3ce4d28f8eb24069a6c6c04fd5cf2b7
+CCTV-10 科教，http://lhzb.lmllml.top:8000/play/MTMwNzE6MTM=.flv?token=CDecBPXjVCMX-MhjNzs4ow&exp=4102444800&sign=149d61cb99643f1741b31f7015bc8662
+CCTV-11 戏曲，http://lhzb.lmllml.top:8000/play/MTMwNzI6MTM=.flv?token=1P95VIjHjjIAiOc2b9y8fQ&exp=4102444800&sign=8aa0cc06040570c9bdd667927dfb93dc
+CCTV-12 社会与法，http://lhzb.lmllml.top:8000/play/MTMwNzM6MTM=.flv?token=CHbOIg3l_6KCZC67XYUIBg&exp=4102444800&sign=734cbce79a57e0258bf8c1862efacf89
+CCTV-13 新闻，http://lhzb.lmllml.top:8000/play/MTMwNzQ6MTM=.flv?token=G1LQdMKmjKQ6p27gt2F_oA&exp=4102444800&sign=5e352263d9517729f83ce39b629e0bc9
+CCTV-14 少儿，http://lhzb.lmllml.top:8000/play/MTMwNzU6MTM=.flv?token=qmh79_Ajhahg85zbWtGnIA&exp=4102444800&sign=0743d9131b20099982fbe0ec397ce5d0
+CCTV-15 音乐，http://lhzb.lmllml.top:8000/play/MTMwNzY6MTM=.flv?token=3akRUwZo7uHMJeE84HMAfw&exp=4102444800&sign=50e5714b1a36ece0784e7e4c0f736ea2
+CCTV-16 奥林匹克.4K，http://lhzb.lmllml.top:8000/play/MTMwNzc6MTM=.flv?token=3-RTCfc8l7XLt92nCfu1ow&exp=4102444800&sign=619b63540a270b1d381a86917451def2
+CCTV17农业，http://lhzb.lmllml.top:8000/play/MTMwNzg6MTM=.flv?token=yyULFdrZp6856zmrAwlQPQ&exp=4102444800&sign=b759b01322d74954b2f4c54542aec17f
